@@ -1,4 +1,4 @@
-# ALAMI - Technical Test = Demaspira Aulia
+# ALAMI - Technical Test - Demaspira Aulia
 
 This project is for ALAMI frontend developer technical test
 
